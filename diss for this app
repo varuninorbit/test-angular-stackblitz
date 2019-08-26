@@ -1,0 +1,9 @@
+This app is designed to give the mcq tests via students.
+
+1 This app will display the list of questions.
+Q What will be the components of the app?
+A 
+Page component
+- Question
+- QNavigation
+- Stats
